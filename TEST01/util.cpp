@@ -2,7 +2,7 @@
 
 string convert(int array[], int size) {
 	if (size <= 0) {
-		return -1;
+		return "error";
 	}
 
 	string s = to_string(array[0]);
