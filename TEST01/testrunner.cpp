@@ -3,8 +3,9 @@
 
 int main() {
 	int array[SIZE];
+	//int array[]{ 9,1,2,3,4,5,6,7,8 };
+	//int size = 9;
 	int size;
-
 	cout << "Input the size: ";
 	cin >> size;
 
